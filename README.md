@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirtan Gajjar
 - 🎓 Currently pursuing a Bachelor of Science in Information Technology (3rd year) at GLS University
-- ⚡ I am expanding my technical capabilities in Python development.
+- ⚡ Exploring Python and getting comfortable with coding.
 - 👀 I’m interested in Building Cool Projects
 - 🌱 I’m currently learning Advanced Python concepts, including debugging and optimization       techniques 🐍
 - 📫 How to reach me w.kagajjar@gmail.com
