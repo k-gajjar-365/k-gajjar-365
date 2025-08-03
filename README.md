@@ -3,4 +3,4 @@
 - ⚡ Exploring Python and getting comfortable with coding.
 - 👀 I’m interested in Building Cool Projects
 - 🌱 I’m currently learning Advanced Python concepts, including debugging and optimization       techniques 🐍
-- 📫 How to reach me w.kagajjar@gmail.com
+- 📫 How to reach me [w.kagajjar@gmail.com](mailto:w.kagajjar@gmail.com)
